@@ -1,4 +1,4 @@
-[[The forest entrance]] %% tags:: #on/PKM %%
+[[Entrada al Bosc]] %% tags:: #on/PKM %%
 # Guiding Values of PKM
 When it comes to managing your digital knowledge, the following are some guiding values and principles to consider.
 

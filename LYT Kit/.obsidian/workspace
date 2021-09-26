@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md",
+            "file": "Umami/Entrada al Bosc.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#writing/2019",
+                "query": "fores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md",
+                "file": "Umami/Entrada al Bosc.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md"
+                "file": "Umami/Entrada al Bosc.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md",
+                "file": "Umami/Entrada al Bosc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,11 +151,20 @@
             "id": "2013cdf82931228a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "39644336d323b358",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "55512af75108e012",
@@ -169,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md",
+                "file": "Umami/Entrada al Bosc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +196,15 @@
   },
   "active": "13c5cf1eec7de00b",
   "lastOpenFiles": [
-    "Timestamps/+YYYY-MM-DD This is where timestamped notes go.md",
-    "Spaces/LYT Notes/LYT Notes MOC.md",
-    "Spaces/LYT Notes/LYT Notes 1.md",
-    "+Home.md",
+    "Umami/Entrada al Bosc.md",
+    "Umami/What is a note.md",
+    "_Comença Aqui.md",
     "Umami/PKM MOC.md",
     "Umami/LYT Kit.md",
     "Umami/The forest entrance.md",
-    "Umami/Guiding Values of PKM.md",
-    "_Start Here.md",
-    "Umami/Mindsets MOC.md"
+    "_Comença_Aqui.md",
+    "+Home.md",
+    "Entrada_al_ Bosc.md",
+    "_ComençaAqui.md"
   ]
 }
