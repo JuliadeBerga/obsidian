@@ -1,0 +1,2 @@
+# obsidian
+PhD inside Obsidian
